@@ -1,0 +1,99 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "native-echarts",
+        "scope": null,
+        "escapedName": "native-echarts",
+        "name": "native-echarts",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/Users/md313/Documents/NewOfficeApp"
+    ]
+  ],
+  "_cnpm_publish_time": 1512722768645,
+  "_from": "native-echarts@latest",
+  "_hasShrinkwrap": false,
+  "_id": "native-echarts@0.4.0",
+  "_inCache": true,
+  "_location": "/native-echarts",
+  "_nodeVersion": "6.11.1",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/native-echarts-0.4.0.tgz_1512722767295_0.6186014679260552"
+  },
+  "_npmUser": {
+    "name": "somonus",
+    "email": "312677182@qq.com"
+  },
+  "_npmVersion": "3.10.10",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "native-echarts",
+    "scope": null,
+    "escapedName": "native-echarts",
+    "name": "native-echarts",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npm.taobao.org/native-echarts/download/native-echarts-0.4.0.tgz",
+  "_shasum": "cb7f38fb6e6c2d1cd3f11a27e94ef74092b4bd38",
+  "_shrinkwrap": null,
+  "_spec": "native-echarts",
+  "_where": "/Users/md313/Documents/NewOfficeApp",
+  "author": {
+    "name": "somonus"
+  },
+  "bugs": {
+    "url": "https://github.com/somonus/react-native-echarts/issues"
+  },
+  "dependencies": {
+    "echarts": "3.2.3"
+  },
+  "description": "echarts for react-native",
+  "devDependencies": {},
+  "directories": {
+    "example": "example"
+  },
+  "dist": {
+    "shasum": "cb7f38fb6e6c2d1cd3f11a27e94ef74092b4bd38",
+    "size": 42942025,
+    "noattachment": false,
+    "tarball": "http://registry.npm.taobao.org/native-echarts/download/native-echarts-0.4.0.tgz"
+  },
+  "gitHead": "533b572df6440d9a604f978b0f30690c3577c368",
+  "homepage": "https://github.com/somonus/react-native-echarts#readme",
+  "keywords": [
+    "react-native",
+    "echarts",
+    "chart",
+    "charts"
+  ],
+  "license": "MIT",
+  "main": "src/index.js",
+  "maintainers": [
+    {
+      "name": "somonus",
+      "email": "312677182@qq.com"
+    }
+  ],
+  "name": "native-echarts",
+  "optionalDependencies": {},
+  "publish_time": 1512722768645,
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/somonus/react-native-echarts.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.4.0"
+}
