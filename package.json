@@ -10,7 +10,6 @@
         "spec": "latest",
         "type": "tag"
       },
-      "/Users/md313/Documents/NewOfficeApp"
     ]
   ],
   "_cnpm_publish_time": 1512722768645,
@@ -47,7 +46,6 @@
   "_shasum": "cb7f38fb6e6c2d1cd3f11a27e94ef74092b4bd38",
   "_shrinkwrap": null,
   "_spec": "native-echarts",
-  "_where": "/Users/md313/Documents/NewOfficeApp",
   "author": {
     "name": "somonus"
   },
